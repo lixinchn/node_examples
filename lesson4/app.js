@@ -48,4 +48,3 @@ superagent.get(cnodeUrl)
                 });
         });
     });
-    
